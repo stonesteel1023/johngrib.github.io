@@ -389,7 +389,7 @@ Conway-s-law:
     summary: '소프트웨어 구조는 개발 조직의 커뮤니케이션 구조를 닮는다.'
     parent: proverb
     url: /wiki/Conway-s-law
-    updated: '2018-02-06 22:50:23 +0900'
+    updated: '2018-02-20 09:00:21 +0900'
 design-pattern:
     type: wiki
     title: '디자인 패턴'
@@ -578,7 +578,7 @@ index:
     summary: null
     parent: null
     url: /wiki/index
-    updated: '2018-02-18 00:18:56 +0900'
+    updated: '2018-02-19 12:52:04 +0900'
 James-Gosling-super-programmer:
     type: wiki
     title: '무협지 주인공 제임스 고슬링(James Gosling)'
@@ -656,6 +656,13 @@ movie:
     parent: media
     url: /wiki/movie
     updated: '2018-02-02 21:34:13 +0900'
+Mythical-Man-Month:
+    type: wiki
+    title: '(책) 맨먼스 미신 - 소프트웨어 공학에 관한 에세이'
+    summary: 'The Mythical Man-Month - Essays on Software Engineering'
+    parent: book
+    url: /wiki/Mythical-Man-Month
+    updated: '2018-02-19 13:02:14 +0900'
 orange-juice-test:
     type: wiki
     title: '오렌지 주스 테스트'
